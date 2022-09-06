@@ -1,6 +1,6 @@
 <!-- jackbereson -->
 <a href="#" target="_blank">
-  <img src="svg/jackbereson.svg" width="1200" alt="jackbereson-official" />
+  <!-- <img src="svg/jackbereson.svg" width="1200" alt="jackbereson-official" /> -->
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
