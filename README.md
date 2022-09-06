@@ -83,7 +83,7 @@
 
 <br>
 
-<h2 align="center">📖 WEB5DEV - YOUTUBE về lập trình 📖</h2>
+<h2 align="center">📖 WEB5DEV - Kênh YOUTUBE về lập trình 📖</h2>
 <p><strong>☕ Kênh web5dev tạo ra nhằm mục đích cung cấp thêm kiến thức về lập trình, vận hành hệ thống, blockchain, mạng, phần cứng ... cho tất cả anh em trong và ngoài ngành IT. ☕</strong></p>
 <p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtube.com/playlist?list=PLYA8DYBAF41H-OvApJ1BOzYeIe1eRK8uA" target="_blank">Kênh youtube về lập trình - Chuyên mục Devops - Deploy hệ thống - Vận hành</a></strong>
@@ -97,5 +97,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/jackbereson-quotes.svg" width="846" height="150" alt="jackbereson-official" />
+  <img src="svg/jackbereson-quotes.svg" width="100%" height="150" alt="jackbereson-official" />
 </a>

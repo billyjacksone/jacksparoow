@@ -15,12 +15,14 @@
 					border-radius: 10px;
 					color: white;
           line-height: 1.6;
+		  padding: 0px 20px;
 				}
         .quotes-eng {
           font-size: 18px;
         }
         .quotes-vi {
           font-size: 18px;
+		  padding: 0px 20px;
         }
         .jackbereson-signature {
           font-size: 16px;
