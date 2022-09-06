@@ -1,0 +1,37 @@
+<svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+          background-color: #20232A;
+					border-radius: 10px;
+					color: white;
+          line-height: 1.6;
+				}
+        .quotes-eng {
+          font-size: 18px;
+        }
+        .quotes-vi {
+          font-size: 18px;
+        }
+        .jackbereson-signature {
+          font-size: 16px;
+        }
+			</style>
+
+			<div class="container">
+        <div class="quotes-eng">"Success is not final, failure is not fatal: it is the courage to continue that counts!"</div>
+        <div class="quotes-vi">"Thành công không phải là cuối cùng, thất bại không phải là chết người: lòng can đảm đi tiếp mới quan trọng!"</div>
+        <div class="jackbereson-signature">-Jack Bereson Official-</div>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
