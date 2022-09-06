@@ -99,4 +99,3 @@
 <a href="#" target="_blank">
   <img src="svg/jackbereson-quotes.svg" width="846" height="150" alt="jackbereson-official" />
 </a>
-
