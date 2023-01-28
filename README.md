@@ -95,10 +95,7 @@
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/jackbereson-quotes.svg" width="100%" height="150" alt="jackbereson-official" />
-</a>
+<p><strong>☕ Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. ☕</strong></p>
 
 <div class="border-top color-border-muted pt-3 mt-3 clearfix hide-sm hide-md">
 <h2 align="center">Organizations</h2>
