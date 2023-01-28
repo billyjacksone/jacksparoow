@@ -83,14 +83,14 @@
 
 <br>
 
-<h2 align="center">📖 WEB5DEV - Kênh YOUTUBE về lập trình 📖</h2>
-<p><strong>☕ Kênh web5dev tạo ra nhằm mục đích cung cấp thêm kiến thức về lập trình, vận hành hệ thống, blockchain, mạng, phần cứng ... cho tất cả anh em trong và ngoài ngành IT. ☕</strong></p>
+<h2 align="center">📖 WEB5DEV - Youtube channel about programming 📖</h2>
+<p><strong>☕ The web5dev channel created for the purpose of providing more knowledge about programming, system operation, blockchain, network, hardware ... for all brothers inside and outside the IT industry. ☕</strong></p>
 <p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtube.com/playlist?list=PLYA8DYBAF41H-OvApJ1BOzYeIe1eRK8uA" target="_blank">Kênh youtube về lập trình - Chuyên mục Devops - Deploy hệ thống - Vận hành</a></strong>
+  <strong>🔗 Detailed introduction link: <a href="https://youtube.com/playlist?list=PLYA8DYBAF41H-OvApJ1BOzYeIe1eRK8uA" target="_blank">Programming youtube channel - Devops category - System Deploy - Operation</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/vuongwebcoder" target="_blank">https://www.facebook.com/vuongwebcoder</a></strong>
+  <strong>🔗 Contact me at Facebook: <a href="https://www.facebook.com/vuongwebcoder" target="_blank">https://www.facebook.com/vuongwebcoder</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:jackbereson@gmail.com" target="_top">jackbereson@gmail.com</a></strong>
+  <strong>📧 Email: <a href="mailto:jackbereson@gmail.com" target="_top">jackbereson@gmail.com</a></strong>
 </p>
 
 <br>
