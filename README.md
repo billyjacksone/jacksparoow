@@ -3,6 +3,11 @@
   <img src="svg/jackbereson.svg" width="1200" alt="jackbereson-official" />
 </a>
 
+[![Jack Bereson profile views](https://u8views.com/api/v1/github/profiles/18569187/views/day-week-month-total-count.svg)](https://u8views.com/github/jackbereson)
+
+<a href="https://u8views.com/github/jackbereson"><img src="https://u8views.com/api/v1/github/profiles/18569187/views/day-week-month-total-count.svg"></a>
+
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
