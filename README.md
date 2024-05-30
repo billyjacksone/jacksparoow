@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-[![Jack Bereson profile views](https://u8views.com/api/v1/github/profiles/18569187/views/day-week-month-total-count.svg)](https://u8views.com/github/jackbereson)
+[![Jack Sparrow profile views](https://u8views.com/api/v1/github/profiles/18569187/views/day-week-month-total-count.svg)](https://u8views.com/github/jacksparoow)
 
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
